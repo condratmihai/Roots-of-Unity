@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\BGScroller.cs">
+    <Files>
+      <File FileName="Assets\_Scripts\RandomRotator.cs" Line="11" Column="15" />
+      <File FileName="Assets\_Scripts\BGScroller.cs" Line="16" Column="31" />
+      <File FileName="Assets\_Scripts\PlayerController.cs" Line="46" Column="57" />
+      <File FileName="Assets\_Scripts\DestroyByContact.cs" Line="39" Column="29" />
+      <File FileName="Assets\_Scripts\GameController.cs" Line="59" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
